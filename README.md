@@ -6,8 +6,8 @@ Dados INep para download: [Censo Escolar 2021](https://www.gov.br/inep/pt-br/ace
 
 ### Arquivos disponíveis.
 
-#### Informacoes para a execucao da atividade.txt
-Arquivo .tct contendo as instruções para a execução da atividade.
+#### ***Informacoes para a execucao da atividade.txt***
+Arquivo .txt contendo as instruções para a execução da atividade.
 
 #### final_data_visualizattion.ipynb
 Atividade de gerenciamento de dados e plotagem de gráfico utilizando o Python e a biblioteca Plotly.
